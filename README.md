@@ -1,7 +1,7 @@
 # 2D Survival Game - Unity & C#
 
 ## 📌 Project Overview
-This is a 2D survival/dodging game developed as a 1st-year academic project at the "Grigore Moisil" National College of Computer Science. The project focuses on core game mechanics, physics-based logic, and implementing clean code using Object-Oriented Programming (OOP) principles within the Unity Engine.
+A 2D survival/dodging game developed as a final Computer Science project at the **"Grigore Moisil" National College of Computer Science, Brașov**. The project focuses on core game mechanics, physics-based logic, and clean code architecture using Object-Oriented Programming (OOP) principles within the Unity Engine.
 
 ## 🛠️ Technical Implementation
 * **Engine:** Unity 2022/2023
@@ -15,9 +15,5 @@ This is a 2D survival/dodging game developed as a 1st-year academic project at t
 * **Game State Management:** Logic for handling "Game Over" states, score tracking, and scene reloading.
 * **Prefab Optimization:** Efficient use of Unity Prefabs for reusable game elements.
 
-## 📂 Project Status
-*Currently restoring and re-uploading full source files from local backup.*
-
-## 📝 Academic Context
-* **Institution:** "Grigore Moisil" National College of Computer Science, Brașov
-* **Project Type:** 1st-Year Computer Science Final Project
+## 📂 Repository Content
+This repository contains the `Assets`, `Packages`, and `ProjectSettings` necessary to run or inspect the project architecture in Unity.
